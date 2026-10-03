@@ -6,7 +6,7 @@
   "img" : "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Classic_Recall_Effect.png/revision/latest?cb=20211204090007",
   "roll" : "Recall",
   "her" : "Classic Replacement",
-  "url" : "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/r3c4ll.json"
+  "url" : "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/refs/heads/main/r3c4ll.json"
   },
   {
   "judul" : "Elimination Effect List",
@@ -14,7 +14,7 @@
   "img" : "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Classic_Elimination_Effect.png/revision/latest?cb=20211204075319",
   "roll" : "Recall",
   "her" : "Classic Replacement",
-   "url" : "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/3L1miN4tion.json"
+   "url" : "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/refs/heads/main/3L1miN4tion.json"
   },
 
   {
@@ -23,7 +23,7 @@
   "img" : "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest?cb=20211203144023",
   "roll" : "Recall",
   "her" : "Classic Replacement",
-   "url" : "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/psp4wn.json"
+   "url" : "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/refs/heads/main/psp4wn.json"
   },
   {
   "judul" : "Battle Emote",
@@ -31,7 +31,7 @@
   "img" : "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Genius%21.png/revision/latest?cb=20220118062722",
   "roll" : "Recall",
   "her" : "Genius! Replacement",
-   "url" : "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/EM0uT.json"
+   "url" : "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/refs/heads/main/EM0uT.json"
   },
   {
   "judul" : "Trails Effect List",
@@ -39,15 +39,15 @@
   "img" : "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Classic_Trail_Effect.png/revision/latest?cb=20211203174006",
   "roll" : "Recall",
   "her" : "Trail Replacement",
-   "url" : "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/trr4iI.json"
+   "url" : "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/refs/heads/main/trr4iI.json"
   },
   {
     "judul" : "Map Sanctum Island",
   "desc" : "for Map Sanctum Island",
-  "img" : "https://github.com/gdsfmh/L3nGk4ppps/raw/main/Uploads/1751732035-picsay.png",
+  "img" : "https://github.com/jtsonnl/L3Engk4pps/raw/main/Uploads/1751732035-picsay.png",
   "roll" : "Map",
   "her" : "Sanctum Island",
-    "url" : "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/n3w%20m4f.json"
+    "url" : "https://raw.githubusercontent.com/jtsonnl/L3Engk4pps/refs/heads/main/n3w%20m4f.json"
   },
 
   {
